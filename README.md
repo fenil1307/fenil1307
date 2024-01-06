@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning **AWS course**
+- 🌱 I’m currently learning **Deep learning/Machine Learning **
 
 - 👯 I’m looking to collaborate on **with my role**
 
