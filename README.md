@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **multiple projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fenil1307](https://github.com/fenil1307)
+- 👨‍💻 All of my projects are available at [fenil1307](https://github.com/fenil1307)
 
 - 📫 How to reach me **fenilkheni1307@gmail.com**
 
