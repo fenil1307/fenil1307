@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [fenil1307](https://github.com/fenil1307)
 
-- 📫 How to reach me **fenilkheni1307@gmail.com**
+- 📫 How to reach me **fenilkheni1307@gmail.com** 
 
 - ⚡ Fun fact **curious about learning new Technologies**
 
