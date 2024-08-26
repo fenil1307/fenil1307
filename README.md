@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm fenil kheni</h1>
-<h3 align="center">A passionate AI/ML enthusiast and flutter developer from India</h3>
+<h3 align="centre">A passionate AI/ML enthusiast and flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil1307&label=Profile%20views&color=0e75b6&style=flat" alt="fenil1307" /> </p>
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning Deep learning/Machine Learning 
+- 🌱 I’m currently learning Generative AI/ large language models(LLM)
 
 - 👯 I’m looking to collaborate on **with my role**
 
