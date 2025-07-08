@@ -1,30 +1,31 @@
-<h1 align="center">Hi 👋, I'm fenil kheni</h1>
-<h3 align="center">A passionate AI/ML enthusiast and flutter developer from India</h3>
+<!-- Stylish header without border -->
+<div align="center">
+  <h1>Hey there 👋, I'm <span style="color:#00bcd4;">Siddhi Patel</span></h1>
+  <p><strong>AI/ML Enthusiast | Dev | Designer | Creator</strong></p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil1307&label=Profile%20views&color=0e75b6&style=flat" alt="fenil1307" /> </p>
+<!-- Tech Snake Animation -->
+![Snake](https://raw.githubusercontent.com/fenil1307/fenil1307/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/fenil1307/fenil1307/output/github-contribution-grid-snake-dark.svg)
 
-- 🔭 I’m currently working on **LLM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fenil1307](https://github.com/fenil1307)
+<!-- About Me Section -->
+### 💡 About Me  
+- 🤖 Currently diving deep into **AI/ML, AI Agents, and Gen AI**  
+- 🎨 Also love working with **Automation Tools**  
+- 📫 Reach me at: **fenilkheni1307@gmail.com**  
 
-- 📫 How to reach me **fenilkheni1307@gmail.com**
 
-- ⚡ Fun fact **curious about learning new Technologies**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fenil kheni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fenil kheni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fewnilkheni13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fewnilkheni13" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fenilkheni13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fenilkheni13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fenilkheni13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fenilkheni13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<fenilkheni13>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<fenilkheni13>/profile" height="30" width="40" /></a>
+<!-- Tech Stack Section -->
+### 🧠 Technologies & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,docker,git,github,mysql,cpp,java,c,vscode&perline=14" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenil1307&show_icons=true&locale=en&layout=compact" alt="fenil1307" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenil1307&show_icons=true&locale=en" alt="fenil1307" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenil1307&" alt="fenil1307" /></p>
+<!-- Connect With Me -->
+### 🤝 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/fenil-kheni-92bb77231/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="40"/></a>
+  <a href="https://twitter.com" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="40"/></a>
+</p>
