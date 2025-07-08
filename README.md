@@ -5,7 +5,7 @@
 </div>
 
 <!-- Tech Snake Animation -->
-![snake gif](https://github.com/fenil1307/fenil1307/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fenil1307/fenil1307/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <!-- About Me Section -->
