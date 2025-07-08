@@ -1,12 +1,11 @@
 <!-- Stylish header without border -->
 <div align="center">
-  <h1>Hey there 👋, I'm <span style="color:#00bcd4;">Siddhi Patel</span></h1>
-  <p><strong>AI/ML Enthusiast | Dev | Designer | Creator</strong></p>
+  <h1>Hey there 👋, I'm <span style="color:#00bcd4;">Fenil Kheni</span></h1>
+  <p><strong>AI/ML Enthusiast</strong></p>
 </div>
 
 <!-- Tech Snake Animation -->
-![Snake](https://raw.githubusercontent.com/fenil1307/fenil1307/output/github-contribution-grid-snake.svg)
-![Snake](https://raw.githubusercontent.com/fenil1307/fenil1307/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <!-- About Me Section -->
