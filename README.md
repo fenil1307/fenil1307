@@ -7,9 +7,6 @@
 ---
 
 <!-- GitHub Snake Contribution Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fenil1307/fenil1307/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
 
 ---
 
